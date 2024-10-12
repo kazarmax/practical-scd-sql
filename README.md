@@ -6,4 +6,4 @@ In the queries, two tables are used:
 * `dim_customers` - acts as our main dimension table, which stores the current state of customer data
 * `staging_customers` - simulates incoming changes from the source system, such as updates to existing customer records or completely new customers
 
-For a complete step-by-step guide - see 
+For a complete step-by-step guide - see https://medium.com/@kazarmax/scd-types-explained-with-sql-a-guide-for-data-engineers-a26a07cf5c60
